@@ -12,9 +12,10 @@ h1 {
 }
 
 body {
-    background-image: url("cutoffhand.png");
+    background-image: url("image.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: auto;
 }
 
 h2 {
