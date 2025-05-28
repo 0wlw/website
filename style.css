@@ -15,7 +15,7 @@ body {
     background-image: url("image.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: auto;
+    background-size: 600px 400px;
 }
 
 h2 {
