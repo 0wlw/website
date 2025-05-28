@@ -12,7 +12,7 @@ h1 {
 }
 
 body {
-    background-image: "hand.png";
+    background-image: url("hand.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
