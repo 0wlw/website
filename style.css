@@ -41,6 +41,18 @@ h3 {
     box-shadow: 5px 5px 5px black;
 }
 
+h4 {
+    font-family: "Copperplate";
+    background-color: white;
+    border: solid;
+    border-radius: 5px;
+    padding: 35px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
 img {
     max-width: 60%;
     border-radius: 5px;
