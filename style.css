@@ -12,7 +12,9 @@ h1 {
 }
 
 body {
-    color: black;
+    background-image: "hand.png";
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h2 {
